@@ -1,10 +1,5 @@
 ## Hi there 👋
-|:-----:|:--------:|:---------:|
-| [<img src="https://github.com/CHOIBEAR.png" width="80" alt="gotham Team"/>](https://github.com/higotham) 
-
-
-프로젝트1팀 : https://github.com/higotham
-프로젝트2팀 : https://github.com/hiedupixel 
+[gotham Team](https://github.com/higotham) | [pixel Team](https://github.com/hiedupixel)
 <!--
 
 **Here are some ideas to get you started:**
