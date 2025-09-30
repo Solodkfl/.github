@@ -1,6 +1,6 @@
 <img src='./MSA.PNG' />
 
-[프로젝트 기능 정리.xlsx](./프로젝트%20기능%20정리.xlsx)
+[프로젝트 기능 정리.xlsx 다운로드](https://github.com/Solodkfl/.github/raw/main/profile/프로젝트%20기능%20정리.xlsx)
 
 | gotham | pixel | 
 |:-----:|:--------:|
